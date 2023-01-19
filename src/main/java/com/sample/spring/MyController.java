@@ -11,7 +11,7 @@ public class MyController {
 	@GetMapping("/welcomeSpring6App")
 	public String welcomeApp() {
 		
-		return "Welcome Java Spring JBOSS Application 6" ;
+		return "Welcome Java Spring JBOSS Application 6 Testing" ;
 	}
 
 }
